@@ -1,0 +1,1 @@
+A Recurrent Neural Network architecture-based model that generates new fake TV scripts, based on patterns it recognizes in the training data. The model has been trained on the Seinfeld dataset of scripts from nine seasons.
